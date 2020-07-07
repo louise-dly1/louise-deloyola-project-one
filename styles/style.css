@@ -553,6 +553,7 @@ form input {
 
 }
 
+/* mobile screens */
 @media (max-width: 320px){
 
     html {
